@@ -1,0 +1,23 @@
+This work repository is specially designed for the mpi caculating of large matrixes multiplication,
+
+and i will complete such work step by step as follows:
+
+1. get the matrix;
+
+2. finish the basic muliplications;
+
+3. further improve the algorithm of the matrix-multiplication
+
+4. What I've taken into consideration of the performance factors are listed below:
+	
+	the core's number
+
+	the parallel degree you have your codes to run on
+
+	the environment is balancing or not
+
+	matrix-self's contents or numbers
+
+	algorithm's impact
+
+	finally, we can simplify the hardware caculation.(by2 etc.)
