@@ -48,13 +48,15 @@ void generate_matrix(double *mat, int rows, int cols, int mark, double sparse) {
 			}
 		}
 	}
+	printf("get1\n");
 
 	for(i = 0; i < rows; ++i) {
 		for(j = 0; j < cols; ++j) {
-			printf("%lf\t", mat[i * rows + j]);
+			printf("%lf ", mat[i * rows + j]);
 		}
 		printf("\n");
 	}
+	printf("get2\n");
 }
 		
 

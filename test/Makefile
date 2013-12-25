@@ -1,5 +1,5 @@
 CC = gcc
-CFLAGS = -g -Wall -fPIC
+CFLAGS = -g -Wall -c
 
 ALL = test
 all: $(ALL)
